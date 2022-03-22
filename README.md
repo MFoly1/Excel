@@ -1,7 +1,6 @@
 # Excel
 - This is a small project to do a simple dashboard
 ```
-Here, I made some data cleaning
-created some pivot tables and each one has its own chart
-then I putted them in a single dashboard includes the all charts
+Doing an interactive dashboard for a cookies company that shows the relationships between 
+the profit by market & cookies type, units sold each month, and the profit of each month.
 ```
